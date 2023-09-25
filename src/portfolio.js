@@ -134,6 +134,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Front-End Developer",
+      company: "Thndr.",
+      companylogo: "https://play-lh.googleusercontent.com/8RVouxZSXgD3sKX-YUJx8bT47JrSvGUHVsKIDnveRI6i8uWewdz9m1gZKJR0Np0wKmU",
+      date: "JUL 2023 – Present",
+      desc: "Working as front end developer in Md Labs. Developing large-scale fin tech system for trading and platforms using React, React native , and modern front end technologies",
+      descBullets: [
+        "Create smooth user experience for users to trade (buy and sell stocks)",
+        "work closely with the product team to deliver high quality Features",
+        "Write test cases for the code in react  native using RTL"
+      ]
+    },
+    {
       role: "Full-Stack Developer",
       company: "MD Labs.",
       companylogo: require("./assets/images/md.svg"),
@@ -146,19 +158,11 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front End Developer",
-      company: "Inkbees",
-      companylogo: require("./assets/images/inkbees.png"),
-      date: "Nov 2021 – OCT 2022",
-      desc:  " Inkbees is a startup that is still under development however I was lucky to join their team for 8 monthsas front end engineer, in inkbees we are building a print-on-demand-platform to build a product editor that users can use to edit and design their products (T-shirts/ mugs/ hoddies, laptop covers...etc.). I worked on building this editor with HTML 5 canvas and react js. note: that it is not launched yet but you can preview some sample footage here:  https://drive.google.com/ le/d/19YCjctG3WszR7_3GesAVCwVUi9zY6Pvs/view? usp=sharing "
-
-    },
-    {
-      role: "Front End Engineer",
-      company: "Class Tutor",
-      companylogo: require("./assets/images/classTutor.webp"),
-      date: "jul 2022 – DEC 2022",
-      desc: "Worked as Front-End developer with the class Tutor development team to create the second version of class tutor my responsivities was mainly:",
+      role: "Software Engineer Freelancer",
+      company: "Freelance platforms",
+      companylogo: null,
+      date: "jan 2021 – DEC 2022",
+      desc: "Worked as Front-End developer with alot of clients to provide quick and high quality services",
       descBullets: [
         "Convert Figma designs to pixel perfect",
         "Refactor and maintain the existing codebase",
